@@ -1,6 +1,10 @@
 # Docker MongoDB
 
+* Rodando o projeto
 
+```bash
+uv run uvicorn main:app --reload
+```
 
 
 
